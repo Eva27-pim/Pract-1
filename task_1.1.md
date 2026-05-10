@@ -10,7 +10,6 @@
 
 ![capture_20260510015530370.bmp](https://github.com/user-attachments/files/27566166/capture_20260510015530370.bmp)
 
-![capture_20260510131126167.bmp](https://github.com/user-attachments/files/27566174/capture_20260510131126167.bmp)
 ![capture_20260510013816922.bmp](https://github.com/user-attachments/files/27566164/capture_20260510013816922.bmp)
 
 
