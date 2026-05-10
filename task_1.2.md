@@ -1,3 +1,6 @@
+<img width="17709" height="7412" alt="zadanie-3 png" src="https://github.com/user-attachments/assets/96cd13cd-a768-441d-b737-1a1643c00936" />
+<img width="14898" height="6616" alt="zadanie-2 png" src="https://github.com/user-attachments/assets/ded2692d-de5d-4c6d-96c1-b62d68cdff3a" />
+<img width="17732" height="5652" alt="zadanie-1 png" src="https://github.com/user-attachments/assets/6b4f12b7-b397-42d4-9e2e-7e7ac0b47f89" />
 # Задание 1.2. Анализ структуры сайтов
 
 ## 1. Структура сайта кафедры ИТиЭО
